@@ -1,0 +1,7 @@
+go.mod
+go.sum
+ip_database.db
+*.tfstate
+*.tfstate.backup
+.terraform
+.terraform.lock.hcl
